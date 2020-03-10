@@ -1,0 +1,15 @@
+USER MEMBER
+checkout_proses
+logout
+login
+update porofile
+delete alamat pengiriman
+add alamat pengiriman
+update alamat pengiriman
+ubah password
+
+batalkan pesanan
+konfirmasi pembayaran pesanan
+crud keranjang pokoke
+
+view item product
